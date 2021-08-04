@@ -1,0 +1,12 @@
+numpy
+matplotlib
+torch
+torchvision
+imageio
+pillow
+pandas
+seaborn
+SciPy
+scikit-learn
+mpi4py
+apex
