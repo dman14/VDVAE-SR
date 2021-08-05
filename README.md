@@ -8,7 +8,7 @@ Image super-resolution (SR) techniques are used to generate a high-resolution im
 This project uses transfer learning to utilize the VDVAE model combined with an extra component in order to support the task of image super-resolution with four times upscaling (x4). The model we present, which we call VDVAE-SR was able to output sharper images than a purely Convolutional Neural Network method EDSR (winner of NTIRE17 SR Challenge) in terms of FID score and even comparing to the popular GAN-based SR method ESRGAN (winner of PIRM-2018 SR Challenge).
 
 The purpose of the project was to achieve and develop a super-resolution model based on a Deep VAEs, here the [VDVAE](https://github.com/openai/vdvae) implementation was used to build upon it.
-![image](readme_figs/VDVAE SR.png)
+![image](readme_figs/VDVAE%20SR.png)
 ## Usage
 To run any of the three models, the Operational IPython Notebooks can be run.
 For the Training/Testing data, the datasets can be downloaded from here.
