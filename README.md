@@ -1,7 +1,7 @@
 # Image-Super-Resolution-using-Deep-VAEs
 ![image](readme_figs/Monarch64.png)
 ## Information
-The full report of the project can be found [here](https://drive.google.com/file/d/15EFpWX3xsbfmY5gy5YszNyacdTAHyiU4/view?usp=sharing).
+The full paper of the project can be found [here](https://arxiv.org/abs/2203.09445).
 ## Description
 Image super-resolution (SR) techniques are used to generate a high-resolution image from a low-resolution image. Deep Generative Models (DGMs) such as autoregressive (AR) models, Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) have proven to be effective at modelling high-resolution images. In particular, GAN-based SR models have achieved state-of-the-art SR performances. Whereas VAEs used to be criticised for their feeble generative performances, there is now strong evidence that deep VAEs can outperform both GANs and AR models for high-resolution image generation. The project aims at exploiting the most recent deep VAE, specifically the state-of-the-art VDVAE generative model to improve upon existing SR models. 
 
